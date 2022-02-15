@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+fdas HEAD
 fjisdHello
 =======
 Software engineering is fun!
