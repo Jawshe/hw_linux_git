@@ -1,2 +1,2 @@
-dsadef new_feature():
+def new_feature():
 	print("I am a new feature!")
